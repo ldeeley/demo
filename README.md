@@ -5,4 +5,4 @@ This is a simple readme file.
 
 Just some random updates for using the diffTool
 
-These updates are for the updates branch
+I hope these changes won't be lost
