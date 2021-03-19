@@ -1,8 +1,5 @@
-#Demo Project README
-This is a simple readme file.
+# my-website
 
-##Heading 2
+# a really great website
 
-Just some random updates for using the diffTool
-
-I hope these changes won't be lost
+# make any changes I like to this file
