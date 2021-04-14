@@ -1,5 +1,6 @@
  
-![Thoth Goals - Stephen original slides...](file:///C:\Users\leste\Desktop\thothGoals.png)
+![Goals - Stephen's original slide](thothGoals.png)
+
 
 
 [from Stephen’s original slides =>GOALS Agreed!! 
@@ -18,7 +19,7 @@ Provide novices with a narrow shortlist of peripheral skills, prioritised, along
 [Objectives]
 1. Thoth aims to provide a mentee looking for a specific job role (e.g. Front-End web-developer] with a validated roadmap of prioritised skills split by  sub-domain 
 
-![](file:///C:\Users\leste\Desktop\thothmap.png)
+![Peripheral Skills Map example](thothmap.png)
 
 
 2. Thoth, in each sub-domain will identify 2 or 3 essential skills and direct them to a recommended learning resource/s.
@@ -31,6 +32,6 @@ One way we might implement this…
 
 1. Perhaps identify a couple of job -roles - e.g. Web Developer, Back-End Developer (Entry Level)
 2. In the group, determine the short list of skills that would be highly desirable when you land the role to produce a couple of maps (as above)
-3. Ask for ideas, resources where mentees can learn, practice these essential skills and how they might be able to evidence competence –
+3. Ask for ideas, resources where mentees' can learn, practice these essential skills and how they might be able to evidence competence –
 4. Ask for volunteer champions to support sub-domains
 
